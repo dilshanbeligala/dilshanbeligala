@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamika Dilshan Beligala</h1>
 <br/>
-<h3 align="center">A passionate Mobile developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <br/>
 
 
