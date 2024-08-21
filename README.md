@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=dilshanbeligala&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)" alt="dilshanbeligala" /> </p>
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshanbeligala&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanbeligala" /> </p>
 
 - 📫 How to reach me **beligaladilshan@gmail.com**
 <br/>
